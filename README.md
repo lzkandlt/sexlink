@@ -7,15 +7,14 @@
 ##系统管理
 ![img](https://raw.githubusercontent.com/lzkandlt/sexlink/main/2.png)
 
-##推广结算
+##推广结算（盈利模式）
 ![img](https://raw.githubusercontent.com/lzkandlt/sexlink/main/3.png)
 
 ##提供服务
-1、网站项目服务器搭建
-2、域名购买，域名证书适配
-3、网站模版配置，优化
-4、系统运维
-
+#1、网站项目服务器搭建
+#2、域名购买，域名证书适配
+#3、网站模版配置，优化
+#4、系统运维
 
 ##商务联系合作
 ## Email: sexyCs258369@hotmail.com
