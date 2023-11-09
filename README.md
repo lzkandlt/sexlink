@@ -1,4 +1,4 @@
-# sexlink-最好用的色情服务导航网址项目 https://www.sexlink.icu
+# sexlink-最好用的色情服务导航网址项目（提供源码，可多次部署） https://www.sexlink.icu
 满园春色色站导航，一个收录最优秀的成人福利网站网址的色情导航网站  当前网址：https://www.sexlink.icu
 
 # 导航网址服务
